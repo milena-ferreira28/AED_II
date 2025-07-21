@@ -6,9 +6,11 @@ Este repositório contém implementações de algoritmos estudados na disciplina
 
 - 📊 Árvores e Grafos
   - 📌 Dijkstra
+
   Algoritmo utilizado para encontrar o caminho mínimo entre um vértice de origem e os demais vértices de um grafo. Funciona em grafos com pesos não negativos e é amplamente usado em problemas de rotas e redes.
 
   - 🕸️ Kruskal
+  
   Algoritmo utilizado para encontrar a árvore geradora mínima de um grafo. Ele seleciona as arestas de menor peso, evitando ciclos, até conectar todos os vértices com o menor custo total possível.
 
 ## 📎 Observações
